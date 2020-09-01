@@ -1,0 +1,181 @@
+Project Group
+   Subscription
+   Resource group vs All resources
+
+-------Resource Manager ------------------
+
+https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/azure-subscription-service-limits
+
+
+
+service vs resource ?
+
+---------------   VM           -------------------------
+
+virtual machine scale set
+
+
+
+---storage ----
+storage logging
+
+storage metrics 
+
+Authentic type -- Oauth/SAS
+
+upload .vhd files as page blobs ?
+
+----- Monitroing -- > Log Analytics -----
+
+Note : no blank line in Azure blobs
+
+Azure activity logging
+
+Storage account logs
+
+
+------ Virtual Network ---
+service endpoint 
+
+SKU ?
+
+If we use IPv6 then we will have to use gateway which translates IPv4 requests internally in IPv6 format
+
+Application security group -- region specific ?
+
+
+VNET peering
+
+Forwarded traffic
+
+
+VNET Gateway (VPN ) : Scalable
+  Vnet to vnet
+  point to site 
+  site to site
+  express Route : External vendor is required
+  Virtual WAN
+  
+remote gateway ?  
+
+https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-faq
+
+Note : Focus on the word if it is VNET or Subnet 
+
+If you need to ensure that the private IP address for a resource deployed through the classic deployment model never changes, assign a private IP address with the static method.
+
+IP address was assigned with the static or dynamic allocation method? how to do it 
+
+
+------ AD section 12/13 ------------------
+
+Azure AD Identity protection ( part of premium feature can be accessed for three days for free )
+
+Access Review
+
+-------- Azure site recovery ----------------------
+Replication
+Backup
+
+
+
+------ Serverless -----------
+Function Apps
+    It has consumption plan and App service plan.
+	But if you choose consumption plan is is also a app service plan but without an option to scaling up/down and networking
+	
+	
+	
+Logic Apps 
+   
+
+Event Grid
+
+
+service bus
+
+
+
+------------ Load balance --------------
+
+Level 4 load balancer
+  two types -- difference important
+
+Application GAteway
+
+  
+front door 
+
+----------- MF authentication -------------
+
+
+
+----- Service fabric App ------------------
+
+Guest executables : no benefits of service is not coupled with service fabric
+Reliable services : It a framework by MS, whose API needs to be called to execute the service, it has Lock in , 
+						Two types : stateless , Statefull ( using reliable collection )
+Reliable Actors : It works on messages, 
+
+ASF is Microsoft's alternative to AKS
+
+---------------  secure data solution -------------------
+TDE ( transparent data encryption ) :
+	BYOK ( bring your key ) option is available where user can bring their own kye and sotre in Azure kye vault and SQL server will use it from there
+
+	When data is exported then it is not encrypted and is available in format BACPAC
+
+Azure Storage Encryption :
+	it is enable by default and cannot be disabled
+	
+
+Azure Key Vault :
+	place for storing secrets and certificates , access key , passwords
+	
+	
+---------- Cosmos DB ------------------------------
+Cosmos DB is fully distributed multi node DB service .
+It exposes Mongo, casssandra DB etc
+
+
+Consistency Level
+	strong : Reads are gurantedd to see most writes
+	
+	bounded staleness : Here you can define the delay, minimum being 5 sec , Used in pub/sub, queue, stock ticker
+	session : Each session will be consitent and data will eventually get written to other nodes not part of same session
+	consistent prefix : Oder of operation is gurantedd but there will be some delay
+	eventual : No gurarantee in which data comes to system, for eg . retweets,like etc 
+	
+	
+Cross partition Query :
+    by default it is enabled, so if you fire a query it checks data availablity in all partitions, so it can be costly at times
+    So if you disable this feature then you need to make sure which partiotion you re searching the data for.
+
+--------------- SQL DB a service for Relational DB ----------------------
+
+
+
+-------------- Messgae bases -----------------------------------------
+
+Send grid 
+	
+	
+Event Grid 
+
+Relay service 
+	Hybrid Connection
+	WCF Relay  : By MS 
+	
+	Notification hub : SEnd push notification to mobile users
+	
+Event Hub : Supports AMQP
+
+Service Bus queue 
+
+Microsoft Graph API : for office 365
+
+
+	
+	
+	
+	
