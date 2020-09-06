@@ -58,6 +58,8 @@ Learn command syntax (section 32 - 188 )
 
 ESI Learner Experience Portal (LxP)  ( https://esi.microsoft.com )
 
+https://github.com/Azure-Samples/azure-cosmos-db-sample-data
+
 
 https://www.linkedin.com/learning/me?trk=nav_neptune_learning 
 
