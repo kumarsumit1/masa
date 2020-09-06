@@ -28,7 +28,10 @@ taking notes on virtual note  and  actual note -- get it confirmed from proctor
 ------------------------------------------------------------------------------
 mindhub.com --> 
 
+------------------------------------------------------------------------
+Video tutorial series
 
+https://www.youtube.com/watch?v=oQVVsEy1ciQ
 
 --------------------------------------
 ARM template 
