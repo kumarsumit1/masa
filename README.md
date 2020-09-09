@@ -3,8 +3,13 @@ Time 2:30 hrs
 
 Any way can be done portal,cloud shell, 
 
+Azure updates on heat map 
+https://azurecharts.com/heatmap
 
+https://www.youtube.com/watch?v=FsDNmjLIxlI
 
+Nice Playlist of Azure
+https://www.youtube.com/watch?v=XBLp4rVxEsw&list=PLlVtbbG169nFZTnOZGptqAW8BLkRBspXO
 
 ------------------------------------------------------------------------------
 Can open a new tab and perform the task with Azure Cloud Shell 
@@ -13,7 +18,16 @@ https://shell.azure.com/
 
 And insert the credentials 
 
+az <command> -o table //To print output in tabular format
+
+az interactive  //after this it prompts suggestions for both key and values available. It requires a storage account location to create settings file
+
+
+
 In shell type code . to launch VS code editor
+
+https://www.youtube.com/watch?v=x2aIVYxim-A
+https://www.youtube.com/watch?v=YlbFQtUFOY8
 
 
 -----------------------------------------------------------------------------
@@ -23,6 +37,13 @@ Kusto query language
 
 taking notes on virtual note  and  actual note -- get it confirmed from proctor
 
+aka.ms/lademo
+
+https://www.youtube.com/watch?v=DuWBLsgqhaI
+
+https://www.youtube.com/watch?v=cAzlAg2L1Bg
+
+https://www.youtube.com/watch?v=Zoo-RsJGCu0
 
 
 ------------------------------------------------------------------------------
@@ -35,8 +56,12 @@ https://www.youtube.com/watch?v=oQVVsEy1ciQ
 
 --------------------------------------
 ARM template 
+
+https://www.youtube.com/watch?v=Wiy2UBkuqWE
+
 https://www.youtube.com/playlist?list=PLGjZwEtPN7j8_kgw92LHBrry2gnVc3NXQ
 
+use validate command to check correctness of ARM tool
 
 ---------------------------------------------------------------------------------------
 
