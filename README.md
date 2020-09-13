@@ -86,7 +86,11 @@ Learn command syntax (section 32 - 188 )
 
 ESI Learner Experience Portal (LxP)  ( https://esi.microsoft.com )
 
-https://github.com/Azure-Samples/azure-cosmos-db-sample-data
+https://tutorialsdojo.com  ( Differenced of services )
+
+
+
+-----------------------------------------------------------------------
 
 
 https://www.linkedin.com/learning/me?trk=nav_neptune_learning 
@@ -124,3 +128,16 @@ second week : Implement workloads & security, ARM,CLI,Poweshell
 Third Week  : Create and deploy apps,authentication & secure data
 Fourth Week :
 3 Days 
+
+-------------------  Azure learning Path   -----------------------------
+
+Azure fundamentals
+https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
+
+Manage resources in Azure
+https://docs.microsoft.com/en-us/learn/paths/manage-resources-in-azure/ 
+
+
+Architect network infrastructure in Azure
+https://docs.microsoft.com/en-us/learn/paths/architect-network-infrastructure/
+
