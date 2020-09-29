@@ -49,6 +49,7 @@ https://www.youtube.com/watch?v=Zoo-RsJGCu0
 ------------------------------------------------------------------------------
 mindhub.com --> 
 
+https://www.examtopics.com/exams/microsoft/az-300/view/
 ------------------------------------------------------------------------
 Video tutorial series
 
@@ -86,7 +87,7 @@ Learn command syntax (section 32 - 188 )
 
 ESI Learner Experience Portal (LxP)  ( https://esi.microsoft.com )
 
-https://tutorialsdojo.com  ( Differenced of services )
+https://tutorialsdojo.com  ( Differences of services )
 
 
 
