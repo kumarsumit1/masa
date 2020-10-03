@@ -49,11 +49,16 @@ https://www.youtube.com/watch?v=Zoo-RsJGCu0
 ------------------------------------------------------------------------------
 mindhub.com --> 
 
+https://www.shanebart.com/azure-az-900-exam-study-guide/ 
+
+Mind Map
+https://techcommunity.microsoft.com/t5/azure-developer-community-blog/the-azure-solution-architect-map/ba-p/689700
+
 https://www.examtopics.com/exams/microsoft/az-300/view/
 ------------------------------------------------------------------------
 Video tutorial series
 
-https://www.youtube.com/watch?v=oQVVsEy1ciQ
+
 
 --------------------------------------
 ARM template 
@@ -115,6 +120,7 @@ https://medium.com/@piotrzan/8-tips-to-prepare-for-az-300-exam-cadff5532394
 AZ-303 and AZ-304
 
 https://www.youtube.com/watch?v=q0zKXHWRmgo
+https://www.youtube.com/watch?v=QcagtpDGqts
 
 https://pixelrobots.co.uk/2018/09/study-resources-for-the-az-300/
 
