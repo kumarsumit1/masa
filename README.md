@@ -28,7 +28,12 @@ In shell type code . to launch VS code editor
 
 https://www.youtube.com/watch?v=x2aIVYxim-A
 https://www.youtube.com/watch?v=YlbFQtUFOY8
+-------------------------------------------------------------------
+Latency test
+https://www.azurespeed.com/
 
+Product lifecycle validity
+https://docs.microsoft.com/en-us/lifecycle/products/
 
 -----------------------------------------------------------------------------
 test cases and performance labs has multiple questions and you cant go back once you submit it.
@@ -68,6 +73,9 @@ https://www.youtube.com/watch?v=Wiy2UBkuqWE
 https://www.youtube.com/playlist?list=PLGjZwEtPN7j8_kgw92LHBrry2gnVc3NXQ
 
 use validate command to check correctness of ARM tool
+
+visualize ARM code flow
+http://armviz.io/
 
 ---------------------------------------------------------------------------------------
 
