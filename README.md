@@ -35,6 +35,14 @@ https://www.azurespeed.com/
 Product lifecycle validity
 https://docs.microsoft.com/en-us/lifecycle/products/
 
+
+List of Rest API in Azure 
+https://docs.microsoft.com/en-us/rest/api/
+
+Resource Explorer:
+https://resources.azure.com/ 
+
+
 -----------------------------------------------------------------------------
 test cases and performance labs has multiple questions and you cant go back once you submit it.
 
